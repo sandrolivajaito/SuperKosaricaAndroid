@@ -1,3 +1,22 @@
 <resources>
     <string name="app_name">Super Kosarica</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="wizzard_step_one_title">Uštedite novac</string>
+    <string name="wizzard_step_two_title">Potpuno prilagođeno</string>
+    <string name="wizzard_step_three_title">Kontrolirajte trošak</string>
+    <string name="wizzard_step_four_title">Proslijedite sms</string>
+    <string name="wizzard_step_five_title">Uživajte uz uštedu</string>
+
+
+    <string name="wizzard_step_one_message">Uštedite uz SUPERkošaru i pronađite najpovoljniji lanac u Hrvatskoj za svoj popis namirnica.</string>
+    <string name="wizzard_step_two_message">SUPERkošara vam preporučuje najpovoljniji supermarket po izabranim namjernicama.</string>
+    <string name="wizzard_step_three_message">SUPERkošara vam daje informaciju koliko će vaša košara koštati prije nego što uđete u supermarket.</string>
+    <string name="wizzard_step_four_message">SUPERkošara vam pruža mogućnost da sms-om prosljedite sadržaj vaše košare.</string>
+    <string name="wizzard_step_five_message">Uz SUPERkošara štedite samo 8 kn na svakih 100 kn i ostati će vam na kraju godine 2000 kn.</string>
+    <string name="startup_wizzard_skip">Preskoči</string>
+    <string name="finish_startup_wizard">Počni</string>
 </resources>
+
